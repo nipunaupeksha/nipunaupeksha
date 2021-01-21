@@ -20,9 +20,7 @@ My name is Nipuna Upeksha and I am a Biomedical Enthusiast/Software Engineer.
 ![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
 ## :chart_with_upwards_trend: Stats
-[![Nipuna's github stats](https://github-readme-stats.vercel.app/api?username=nipunaupeksha&show_icons=true&theme=nord&count_private=true&show_icons=true&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunaupeksha&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Nipuna's github stats](https://github-readme-stats.vercel.app/api?username=nipunaupeksha&show_icons=true&theme=nord&count_private=true&show_icons=true&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunaupeksha&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
