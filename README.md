@@ -5,7 +5,7 @@ My name is Nipuna Upeksha and I am a Biomedical Enthusiast/Software Engineer.
 
 ## Tools and Technologies
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-React Native-informational?style=flat&logo=reactnative&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 
 <!--
 **nipunaupeksha/nipunaupeksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
