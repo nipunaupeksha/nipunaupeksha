@@ -3,7 +3,7 @@
 
 My name is Nipuna Upeksha and I am a Biomedical Enthusiast/Software Engineer.
 
-## Tools and Technologies
+## :wrench: Tools and Technologies
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
