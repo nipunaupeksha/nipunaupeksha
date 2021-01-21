@@ -3,8 +3,9 @@
 
 My name is Nipuna Upeksha and I am a Biomedical Enthusiast/Software Engineer.
 
+## Tools and Technologies
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<Python>-informational?style=flat&logo=<python>&logoColor=white&color=2bbc8a)
 
 <!--
 **nipunaupeksha/nipunaupeksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
