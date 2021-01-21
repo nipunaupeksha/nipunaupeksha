@@ -19,8 +19,9 @@ My name is Nipuna Upeksha and I am a Biomedical Enthusiast/Software Engineer.
 ![](https://img.shields.io/badge/Games-Unity-informational?style=flat&logo=Unity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
-[![Nipuna's github stats](https://github-readme-stats.vercel.app/api?username=nipunaupeksha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Nipuna's github stats](https://github-readme-stats.vercel.app/api?username=nipunaupeksha&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunaupeksha&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nipunaupeksha/nipunaupeksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
