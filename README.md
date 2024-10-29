@@ -1,17 +1,18 @@
 ### Hey, I'm Nipuna 👋🏽 
 
-I'm a 28-year-old developer based in Sofia, and I'm passionate about crafting digital experiences. 
+I'm a 29-year-old developer based in Sofia, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](https://nipunaupeksha.github.io/) to learn more about me.
 - Explore my [blog](https://medium.com/@nipunaupeksha) where I share insights and learnings.
-- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/mirayaabrodi).
+- Explore my other [blog](https://nipunaupeksha.hashnode.dev/) where I share everything I am working on.
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/nipuna-upeksha/).
 - Explore my [Github](https://github.com/nipunaupeksha) for my current projects.
 
 ## 📦 Toolbox
 
 **Frontend Development:** `React` `Angular` `Next.js` `TypeScript` `JavaScript` `Tailwind` `Material-UI` `Framer-Motion`
 
-**Backend Developement:** `Java` `Spring` `Flask` `FastAPI` `Nest.js` `GraphQL` `Firebase`
+**Backend Development:** `Java` `Spring` `Flask` `FastAPI` `Nest.js` `GraphQL` `Firebase`
 
 **Databases:** `MySQL` `PostgreSQL` `MS SQL Server` `Oracle DB` `Mongo DB` `Cassandra`
 
@@ -26,8 +27,8 @@ I'm a 28-year-old developer based in Sofia, and I'm passionate about crafting di
 ## ✨ Fun Facts 
 
 - League of Legends is my favorite game.
-- Irregular at Highschool is my favorite anime.
-- As a kid, I wanted to be an astronaut.
+- Naruto is my favorite anime.
+- As a kid, I wanted to be a mathematician.
 - I love using Mac after switching from Linux.
 
 ## 📫 Contact
