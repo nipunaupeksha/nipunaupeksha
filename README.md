@@ -2,7 +2,8 @@
 
 I'm a 29-year-old developer based in Sofia, and I'm passionate about crafting digital experiences. 
 
-- Check out my [website](https://nipunaupeksha.github.io/) to learn more about me.
+- Check out my [website](https://nipunaupeksha.framer.website/) to learn more about me.
+- And my old [website](https://nipunaupeksha.github.io/) to learn a little bit more.
 - Explore my [blog](https://medium.com/@nipunaupeksha) where I share insights and learnings.
 - Explore my other [blog](https://nipunaupeksha.hashnode.dev/) where I share everything I am working on.
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/nipuna-upeksha/).
