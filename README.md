@@ -35,4 +35,7 @@ I'm a 29-year-old developer based in Sofia, and I'm passionate about crafting di
 ## 📫 Contact
 
  For a quick response, DM me on [Instagram](https://www.instagram.com/nipuna_upeksha/) or [LinkedIn](https://www.linkedin.com/in/nipuna-upeksha/). 
+
+ ## 🗂️ Summary
+![Nipuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunaupeksha&show_icons=true&theme=catppuccin_latte)
  
