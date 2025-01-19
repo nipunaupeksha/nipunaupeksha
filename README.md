@@ -24,13 +24,7 @@ I'm a 29-year-old developer based in Sofia, and I'm passionate about crafting di
 **Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
 
 **Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira` `Jenkins` `Circle CI` `GitHub Actions` `Ansible` `Docker` `Kubernetes`
- 
-## ✨ Fun Facts 
 
-- League of Legends is my favorite game.
-- Naruto is my favorite anime.
-- As a kid, I wanted to be a mathematician.
-- I love using Mac after switching from Linux.
 
 ## 📫 Contact
 
