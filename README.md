@@ -1,6 +1,6 @@
 ### Hey, I'm Nipuna 👋🏽 
 
-I'm a 30-year-old developer based in Sofia, and I'm passionate about crafting digital experiences. 
+I'm a Software Engineer based in Sofia, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](https://nipunaupeksha.framer.website/) to learn more about me.
 - And my old [website](https://nipunaupeksha.github.io/) to learn a little bit more.
