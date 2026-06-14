@@ -1,32 +1,90 @@
-### Hey, I'm Nipuna 👋🏽 
+# Hey there, I'm Nipuna 👋🏽
 
-I'm a Software Engineer based in Sofia, and I'm passionate about crafting digital experiences. 
+### 🔐 Identity & Access Management Engineer | Cloud Security Enthusiast | Senior Software Engineer
 
-- Check out my [website](https://nipunaupeksha.framer.website/) to learn more about me.
-- And my old [website](https://nipunaupeksha.github.io/) to learn a little bit more.
-- Explore my [blog](https://medium.com/@nipunaupeksha) where I share insights and learnings.
-- Explore my other [blog](https://nipunaupeksha.hashnode.dev/) where I share everything I am working on.
-- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/nipuna-upeksha/).
-- Explore my [Github](https://github.com/nipunaupeksha) for my current projects.
+I'm an IAM Engineer based in Wolfsburg, Germany 🇩🇪, passionate about building secure, scalable, and cloud-native identity solutions. With 8+ years of experience in software engineering, I specialize in Identity & Access Management, API Security, Authentication & Authorization, Enterprise Integration, and Cloud Technologies.
 
-## 📦 Toolbox
+---
 
-**Frontend Development:** `React` `Angular` `Next.js` `TypeScript` `JavaScript` `Tailwind` `Material-UI` `Framer-Motion`
+## 🚀 About Me
 
-**Backend Development:** `Java` `Spring` `Flask` `FastAPI` `Nest.js` `GraphQL` `Firebase`
+- 🔐 Building secure identity and access management solutions
+- 🌍 Experienced in enterprise-scale IAM, API management, and cloud platforms
+- ☁️ Passionate about cloud-native architectures and platform engineering
+- 🤖 Exploring AI-powered developer and security workflows
+- 📚 Continuous learner focused on security, identity, and emerging technologies
 
-**Databases:** `MySQL` `PostgreSQL` `MS SQL Server` `Oracle DB` `Mongo DB` `Cassandra`
+---
 
-**Cloud Technologies:** `AWS` `Azure` `GCP`
- 
-**Version Control:** `Git` `GitLab` `Bitbucket`
+## 🛠️ Technologies & Platforms
 
-**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+**Identity & Security:** OAuth 2.0, OpenID Connect (OIDC), SAML, SCIM, SSO, MFA, Identity Federation, API Security, Zero Trust
 
-**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira` `Jenkins` `Circle CI` `GitHub Actions` `Ansible` `Docker` `Kubernetes`
+**IAM Platforms:** WSO2 Identity Server, IIQ Sailpoint, Keycloak, Salesforce Identity
+
+**Backend Development:** Java, Python, C#, Spring Boot, FastAPI, .NET, REST APIs, GraphQL, Microservices
+
+**Cloud & DevOps:** AWS, Azure, Google Cloud Platform, Docker, Kubernetes, GitHub Actions, Jenkins, Ansible, Terraform
+
+**Databases:** PostgreSQL, MySQL, Oracle, MS SQL Server, MongoDB, Cassandra
+
+---
+
+## 🏆 Certifications
+
+- 🥇 Salesforce Certified Platform Identity and Access Management Architect
+- 🥇 WSO2 Certified Identity Server Expert
+- 🥇 WSO2 Certified Identity Server Developer
+- 🥇 WSO2 Certified Identity Server Practitioner
+- 🥇 Certified Kubernetes Application Developer (CKAD)
+- 🥇 AWS Certified Developer – Associate
+- 🥇 AWS Certified Solution Architect – Associate
+- 🥇 HashiCorp Certified Terraform Associate
 
 
-## 📫 Contact
+---
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/nipuna_upeksha/) or [LinkedIn](https://www.linkedin.com/in/nipuna-upeksha/). 
- 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://nipunaupeksha.framer.website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nipuna-upeksha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nipunaupeksha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@nipunaupeksha" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://nipunaupeksha.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nipunaupeksha&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunaupeksha&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipunaupeksha" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+🔐 Identity & Access Management (IAM)  
+🛡️ API Security & Zero Trust Architectures  
+☁️ Cloud-Native Security Solutions  
+🏗️ Platform Engineering & Automation  
+🤖 AI for Developer Productivity & Security
+
+---
