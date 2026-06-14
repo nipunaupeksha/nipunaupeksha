@@ -6,7 +6,7 @@ I'm an IAM Engineer based in Wolfsburg, Germany 🇩🇪, passionate about build
 
 ---
 
-## 🚀 About Me
+## 🪪 About Me
 
 - 🔐 Building secure identity and access management solutions
 - 🌍 Experienced in enterprise-scale IAM, API management, and cloud platforms
@@ -18,15 +18,15 @@ I'm an IAM Engineer based in Wolfsburg, Germany 🇩🇪, passionate about build
 
 ## 🛠️ Technologies & Platforms
 
-**Identity & Security:** OAuth 2.0, OpenID Connect (OIDC), SAML, SCIM, SSO, MFA, Identity Federation, API Security, Zero Trust
+**🔑 Identity & Security:** `OAuth 2.0`, `OpenID Connect (OIDC)`, `SAML`, `SCIM`, `SSO`, `MFA`, `Identity Federation`, `API Security`, `Zero Trust`
 
-**IAM Platforms:** WSO2 Identity Server, IIQ Sailpoint, Keycloak, Salesforce Identity
+**🫆 IAM Platforms:** `WSO2 Identity Server`, `IIQ Sailpoint`, `Keycloak`, `Salesforce Identity`, `Azure AD`, `LDAP`
 
-**Backend Development:** Java, Python, C#, Spring Boot, FastAPI, .NET, REST APIs, GraphQL, Microservices
+**📦 Backend Development:** `Java`, `Python`, `C#`, `Spring Boot`, `FastAPI`, `.NET`, `REST APIs`, `GraphQL`, `Microservices`
 
-**Cloud & DevOps:** AWS, Azure, Google Cloud Platform, Docker, Kubernetes, GitHub Actions, Jenkins, Ansible, Terraform
+**☁️ Cloud & DevOps:** `AWS`, `Azure`, `Google Cloud Platform`, `Docker`, `Kubernetes`, `GitHub Actions`, `Jenkins`, `Ansible`, `Terraform`
 
-**Databases:** PostgreSQL, MySQL, Oracle, MS SQL Server, MongoDB, Cassandra
+**💾 Databases:** `PostgreSQL`, `MySQL`, `Oracle`, `MS SQL Server`, `MongoDB`, `Cassandra`
 
 ---
 
