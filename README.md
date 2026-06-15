@@ -4,7 +4,6 @@
 
 I'm an IAM Engineer based in Wolfsburg, Germany 🇩🇪, passionate about building secure, scalable, and cloud-native identity solutions. With 8+ years of experience in software engineering, I specialize in Identity & Access Management, API Security, Authentication & Authorization, Enterprise Integration, and Cloud Technologies.
 
----
 
 ## 🪪 About Me
 
@@ -14,21 +13,15 @@ I'm an IAM Engineer based in Wolfsburg, Germany 🇩🇪, passionate about build
 - 🤖 Exploring AI-powered developer and security workflows
 - 📚 Continuous learner focused on security, identity, and emerging technologies
 
----
 
 ## 🛠️ Technologies & Platforms
 
-**🔑 Identity & Security:** `OAuth 2.0`, `OpenID Connect (OIDC)`, `SAML`, `SCIM`, `SSO`, `MFA`, `Identity Federation`, `API Security`, `Zero Trust`
+- **🔑 Identity & Security:** `OAuth 2.0`, `OpenID Connect (OIDC)`, `SAML`, `SCIM`, `SSO`, `MFA`, `Identity Federation`, `API Security`, `Zero Trust`
+- **🫆 IAM Platforms:** `WSO2 Identity Server`, `IIQ Sailpoint`, `Keycloak`, `Salesforce Identity`, `Azure AD`, `LDAP`
+- **📦 Backend Development:** `Java`, `Python`, `C#`, `Spring Boot`, `FastAPI`, `.NET`, `REST APIs`, `GraphQL`, `Microservices`
+- **☁️ Cloud & DevOps:** `AWS`, `Azure`, `Google Cloud Platform`, `Docker`, `Kubernetes`, `GitHub Actions`, `Jenkins`, `Ansible`, `Terraform`
+- **💾 Databases:** `PostgreSQL`, `MySQL`, `Oracle`, `MS SQL Server`, `MongoDB`, `Cassandra`
 
-**🫆 IAM Platforms:** `WSO2 Identity Server`, `IIQ Sailpoint`, `Keycloak`, `Salesforce Identity`, `Azure AD`, `LDAP`
-
-**📦 Backend Development:** `Java`, `Python`, `C#`, `Spring Boot`, `FastAPI`, `.NET`, `REST APIs`, `GraphQL`, `Microservices`
-
-**☁️ Cloud & DevOps:** `AWS`, `Azure`, `Google Cloud Platform`, `Docker`, `Kubernetes`, `GitHub Actions`, `Jenkins`, `Ansible`, `Terraform`
-
-**💾 Databases:** `PostgreSQL`, `MySQL`, `Oracle`, `MS SQL Server`, `MongoDB`, `Cassandra`
-
----
 
 ## 🏆 Certifications
 
@@ -41,8 +34,6 @@ I'm an IAM Engineer based in Wolfsburg, Germany 🇩🇪, passionate about build
 - 🥇 AWS Certified Solution Architect – Associate
 - 🥇 HashiCorp Certified Terraform Associate
 
-
----
 
 ## 🌐 Connect With Me
 
@@ -64,9 +55,8 @@ I'm an IAM Engineer based in Wolfsburg, Germany 🇩🇪, passionate about build
   </a>
 </p>
 
----
 
-## 📊 GitHub Statistics
+## 👾 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nipunaupeksha&show_icons=true&hide_border=true" />
@@ -77,7 +67,6 @@ I'm an IAM Engineer based in Wolfsburg, Germany 🇩🇪, passionate about build
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipunaupeksha" />
 </p>
 
----
 
 ## 🎯 Current Focus
 
