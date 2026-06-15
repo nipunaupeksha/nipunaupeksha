@@ -70,10 +70,8 @@ I'm an IAM Engineer based in Wolfsburg, Germany 🇩🇪, passionate about build
 
 ## 🎯 Current Focus
 
-🔐 Identity & Access Management (IAM)  
-🛡️ API Security & Zero Trust Architectures  
-☁️ Cloud-Native Security Solutions  
-🏗️ Platform Engineering & Automation  
-🤖 AI for Developer Productivity & Security
-
----
+- 🔐 Identity & Access Management (IAM)  
+- 🛡️ API Security & Zero Trust Architectures  
+- ☁️ Cloud-Native Security Solutions  
+- 🏗️ Platform Engineering & Automation  
+- 🤖 AI for Developer Productivity & Security
